@@ -1,0 +1,167 @@
+/* /* /* 
+/* /* body{
+    height: 2000px;
+    width: 2000px;
+   background-color: lightblu
+/* .per{ */ */
+    /* margin-top: 0ch; */
+/* }
+button{
+    background-color: grey;
+    height: 40px;
+    width: 300px;
+    border-radius: 3cm;
+    font-size: x-small;
+    color: white;
+}
+.hd1{
+    color: blue;
+}
+#dot1{
+    color: red;
+    background-color: violet;
+}
+
+b{
+
+    letter-spacing: 3px;
+    word-spacing: 15px;
+    line-height: 30px;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+}
+/* a{////?//;/ */
+/* // */
+/* .ff1{
+     text-align: center;
+     background-color: lime;
+/* } *; */
+    body{
+        width: 5000px;
+        height: 5000px;
+        background-color: lightslategrey;
+    }
+    
+
+
+
+  .hd5{
+width: 399px;
+height: 299px;
+background-color: blue;
+border-radius: 29px;
+border-radius: 29px;
+text-align: center;
+float: left;
+
+  }
+  .omer{
+    text-align: center;
+    background-color: limegreen;
+  }
+  .omer:hover{
+    background-color: yellow;
+  }
+  .gg1{
+    width: 300px;
+    height: 10px;
+    background-color: blue;
+    margin-left: 660px;
+   
+  }
+
+
+
+
+   .hd6{
+width: 399px;
+height: 299px;
+background-color: blue;
+border-radius: 29px;
+border-radius: 29px;
+text-align: center;
+/* margin: left; */
+/* margin: 0px 100px; */
+float: left;
+
+
+margin: 0px 150px;
+   }
+   .hd6:hover{
+    background-color: royalblue;
+   }
+
+
+
+
+   
+   .hd7{
+width: 399px;
+height: 299px;
+background-color: blue;
+border-radius: 29px;
+border-radius: 29px;
+text-align: center;
+/* margin: left; */
+/* float: left; */
+float: left;
+   }
+
+
+.hd7:hover{
+    background-color: greenyellow;
+}
+
+
+
+  .hd5:hover{
+    background-color: red;
+  }
+  .o1{
+    text-align: center;
+    background-color: cadetblue;
+
+  }
+  .o1:hover{
+    background-color: cyan;
+  }
+  .f1{
+    text-align: center;
+    background-color: blue;
+    font-size: xx-large;
+
+  }
+  .f1:hover{
+    background-color: black;
+  }
+  .b1{
+    /* text-align: center; */
+    background-color: chartreuse ;
+    height: 50px;
+    width: 250px;
+    border-radius: 20px;
+    text-align: center;
+  }
+  .b1:hover{
+    background-color: yellow;
+  }
+  .d1{
+    text-align: center;
+    font-size: xx-large;
+    /* width: 10px;
+    height: 30px;
+    background-color: burlywood;
+    border-radius: 5px; */
+
+  }
+  .d1:hover{
+    background-color: deeppink;
+
+    } 
+
+    .parent{
+       
+        overflow: auto;
+        margin-top: 100px;
+    }
